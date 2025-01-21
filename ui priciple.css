@@ -1,0 +1,65 @@
+.btn-1{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin:10px;
+    background-color: midnightblue;
+    color: white;
+    border: none;
+}
+
+.btn-2{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    margin:10px;
+    background-color: orangered;
+    color: white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.para{
+    width: 350px;
+    height: 150px;
+    border: 1.5px solid darkblue;
+
+border-radius: 20px;
+padding: 10px;
+background-color: aquamarine;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img1{
+    width: 400px;
+    height: 200px;
+}
+
+.img2{
+    height: 400px;
+}
+.img3{
+    width: 400px;
+    height: 300px;
+}
+.img4{
+    width: 500px;
+    height: 500px;
+}
+
+.img5{
+    width: 500px;
+    height: 250px;
+}
+
+.img6{
+    width: 500px;
+    height: 250px;
+}
